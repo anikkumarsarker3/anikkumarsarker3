@@ -1,3 +1,5 @@
+<img align=”right” alt=”Coding” width=”400” src="./anik-banner.png"/>
+
 # 💫 About Me:
 I’m Anik Kumar, a full stack developer with a strong focus on frontend technologies. I enjoy building clean, responsive, and user-friendly web applications. I love learning new tools, sharing knowledge, and constantly improving my skills to become a better developer every day.
 
