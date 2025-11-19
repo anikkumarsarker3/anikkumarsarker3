@@ -25,7 +25,7 @@ I’m Anik Kumar, a full stack developer with a strong focus on frontend technol
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anikkumarsarker3&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=anikkumarsarker3&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=anikkumarsarker3&theme=radical&hide_border=false)<br/>
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anikkumarsarker3&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
